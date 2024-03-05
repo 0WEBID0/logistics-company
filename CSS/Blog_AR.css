@@ -14,7 +14,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
-  margin: 60px auto 0;
+  margin: 109px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -76,7 +76,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -94,13 +94,13 @@
   font-weight: 500;
   font-family: Rubik;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-3 {
   font-size: 1rem;
   font-weight: 500;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -110,7 +110,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -128,7 +128,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-4 {
@@ -146,14 +146,14 @@
   font-weight: 500;
   font-family: Rubik;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-6 {
   font-size: 1rem;
   font-weight: 500;
   font-family: Rubik;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-2 {
@@ -163,7 +163,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -181,7 +181,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-6 {
@@ -199,14 +199,14 @@
   font-family: Rubik;
   font-weight: 500;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-9 {
   font-size: 1rem;
   font-family: Rubik;
   font-weight: 500;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-3 {
@@ -216,7 +216,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -234,7 +234,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-8 {
@@ -252,14 +252,14 @@
   font-family: Rubik;
   font-weight: 500;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-12 {
   font-size: 1rem;
   font-family: Rubik;
   font-weight: 500;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-4 {
@@ -269,7 +269,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -287,7 +287,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-10 {
@@ -305,14 +305,14 @@
   font-family: Rubik;
   font-weight: 500;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-15 {
   font-size: 1rem;
   font-family: Rubik;
   font-weight: 500;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-5 {
@@ -322,7 +322,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -340,7 +340,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-12 {
@@ -358,14 +358,14 @@
   font-family: Rubik;
   font-weight: 500;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-18 {
   font-size: 1rem;
   font-family: Rubik;
   font-weight: 500;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-6 {
@@ -375,7 +375,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -393,7 +393,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-14 {
@@ -411,14 +411,14 @@
   font-family: Rubik;
   font-weight: 500;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-21 {
   font-size: 1rem;
   font-family: Rubik;
   font-weight: 500;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-7 {
@@ -428,7 +428,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -446,7 +446,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-16 {
@@ -464,14 +464,14 @@
   font-family: Rubik;
   font-weight: 500;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-24 {
   font-size: 1rem;
   font-family: Rubik;
   font-weight: 500;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-8 {
@@ -481,7 +481,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -499,7 +499,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-18 {
@@ -517,14 +517,14 @@
   font-family: Rubik;
   font-weight: 500;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-27 {
   font-size: 1rem;
   font-family: Rubik;
   font-weight: 500;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-9 {
@@ -534,7 +534,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -552,7 +552,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-20 {
@@ -570,14 +570,14 @@
   font-family: Rubik;
   font-weight: 500;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-30 {
   font-size: 1rem;
   font-family: Rubik;
   font-weight: 500;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-10 {
@@ -587,7 +587,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -605,7 +605,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-22 {
@@ -623,14 +623,14 @@
   font-family: Rubik;
   font-weight: 500;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-33 {
   font-size: 1rem;
   font-family: Rubik;
   font-weight: 500;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-11 {
@@ -640,7 +640,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -658,7 +658,7 @@
   width: 75px;
   height: 75px;
   --top-right-radius: 23px;
-  margin: 0 0 0 232px;
+  margin: 0 0 0 auto;
 }
 
 .u-section-2 .u-container-layout-24 {
@@ -676,14 +676,14 @@
   font-family: Rubik;
   font-weight: 500;
   font-size: 1.5rem;
-  margin: 13px 1px 0 11px;
+  margin: 13px 0 0 12px;
 }
 
 .u-section-2 .u-text-36 {
   font-size: 1rem;
   font-family: Rubik;
   font-weight: 500;
-  margin: 17px 1px 0 10px;
+  margin: 17px 0 0 11px;
 }
 
 .u-section-2 .u-btn-12 {
@@ -693,7 +693,7 @@
   border-style: solid;
   --bottom-right-radius: 23px;
   --bottom-left-radius: 23px;
-  margin: 29px auto 0;
+  margin: 29px 0 0 auto;
   padding: 5px 98px;
 }
 
@@ -889,20 +889,16 @@
 
   .u-section-2 .u-text-2 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-3 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-1 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
@@ -913,20 +909,16 @@
 
   .u-section-2 .u-text-5 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-6 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-2 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
@@ -937,20 +929,16 @@
 
   .u-section-2 .u-text-8 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-9 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-3 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
@@ -961,20 +949,16 @@
 
   .u-section-2 .u-text-11 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-12 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-4 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
@@ -985,20 +969,16 @@
 
   .u-section-2 .u-text-14 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-15 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-5 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
@@ -1009,20 +989,16 @@
 
   .u-section-2 .u-text-17 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-18 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-6 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
@@ -1033,20 +1009,16 @@
 
   .u-section-2 .u-text-20 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-21 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-7 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
@@ -1057,20 +1029,16 @@
 
   .u-section-2 .u-text-23 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-24 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-8 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
@@ -1081,20 +1049,16 @@
 
   .u-section-2 .u-text-26 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-27 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-9 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
@@ -1105,20 +1069,16 @@
 
   .u-section-2 .u-text-29 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-30 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-10 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
@@ -1129,20 +1089,16 @@
 
   .u-section-2 .u-text-32 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-33 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-11 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
@@ -1153,20 +1109,16 @@
 
   .u-section-2 .u-text-35 {
     width: auto;
-    margin-right: 0;
-    margin-left: 12px;
   }
 
   .u-section-2 .u-text-36 {
     width: auto;
     margin-top: 18px;
-    margin-right: 0;
     margin-left: 12px;
   }
 
   .u-section-2 .u-btn-12 {
     margin-left: 0;
-    margin-right: 0;
     padding-right: 92px;
     padding-left: 92px;
   }
