@@ -714,6 +714,7 @@
 }
 
 .u-section-3 .u-container-layout-2 {
+  background-color: #009e53;
   padding: 30px;
 }
 
@@ -726,6 +727,7 @@
 }
 
 .u-section-3 .u-text-4 {
+  color: white;
   letter-spacing: normal;
   font-weight: 500;
   text-transform: uppercase;
@@ -737,6 +739,7 @@
 }
 
 .u-section-3 .u-text-5 {
+  color: white;
   font-style: italic;
   font-size: 1rem;
   font-family: Rubik;
@@ -942,13 +945,6 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-3 .u-text-2.u-text-2.u-text-2:hover {
-  color: #ffffff !important;
-}
-
-.u-section-3 .u-text-2.u-text-2.u-text-2.hover {
-  color: #ffffff !important;
-}
 
 .u-section-3 .u-container-layout:hover .u-text-2 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
@@ -962,14 +958,6 @@
 .u-section-3 .u-text-4:before,
 .u-section-3 .u-text-4 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
-}
-
-.u-section-3 .u-text-4.u-text-4.u-text-4:hover {
-  color: #ffffff !important;
-}
-
-.u-section-3 .u-text-4.u-text-4.u-text-4.hover {
-  color: #ffffff !important;
 }
 
 .u-section-3 .u-container-layout:hover .u-text-4 {
@@ -986,14 +974,6 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-3 .u-text-6.u-text-6.u-text-6:hover {
-  color: #ffffff !important;
-}
-
-.u-section-3 .u-text-6.u-text-6.u-text-6.hover {
-  color: #ffffff !important;
-}
-
 .u-section-3 .u-container-layout:hover .u-text-6 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 }
@@ -1008,13 +988,6 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-3 .u-text-8.u-text-8.u-text-8:hover {
-  color: #ffffff !important;
-}
-
-.u-section-3 .u-text-8.u-text-8.u-text-8.hover {
-  color: #ffffff !important;
-}
 
 .u-section-3 .u-container-layout:hover .u-text-8 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
@@ -1030,13 +1003,6 @@
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
 }
 
-.u-section-3 .u-text-9.u-text-9.u-text-9:hover {
-  color: #ffffff !important;
-}
-
-.u-section-3 .u-text-9.u-text-9.u-text-9.hover {
-  color: #ffffff !important;
-}
 
 .u-section-3 .u-list-item-3,
 .u-section-3 .u-list-item-3:before,
@@ -1052,14 +1018,6 @@
 .u-section-3 .u-text-7:before,
 .u-section-3 .u-text-7 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
-}
-
-.u-section-3 .u-text-7.u-text-7.u-text-7:hover {
-  color: #ffffff !important;
-}
-
-.u-section-3 .u-text-7.u-text-7.u-text-7.hover {
-  color: #ffffff !important;
 }
 
 .u-section-3 .u-list-item-2,
@@ -1082,16 +1040,6 @@
 .u-section-3 .u-text-3:before,
 .u-section-3 .u-text-3 > .u-container-layout:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
-}
-
-.u-section-3 .u-text-3.u-text-3.u-text-3:hover {
-  color: #ffffff !important;
-}
-
-.u-section-3 .u-text-3.u-text-3.u-text-3.hover {
-  color: #ffffff !important;
-}.u-section-4 .u-sheet-1 {
-  min-height: 655px;
 }
 
 .u-section-4 .u-image-1 {
