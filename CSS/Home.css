@@ -600,6 +600,7 @@
   .u-section-2 .u-image-1 {
     width: 123px;
     height: 126px;
+    top: -123px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
